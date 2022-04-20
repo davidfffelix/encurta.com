@@ -4,3 +4,27 @@
     padding: 0;
 }
 
+.container {
+
+}
+
+
+.logo {
+
+}
+
+.left-bar li {
+    background-color: red;
+    display: inline;
+    flex-direction: row;
+    
+    justify-content: space-between;
+}
+
+
+.right-bar li {
+    background-color: green;
+    display: inline;
+    flex-direction: row;
+    justify-content: flex-end;
+}
